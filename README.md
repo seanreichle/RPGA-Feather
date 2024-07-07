@@ -1,4 +1,4 @@
-# ICE40 RGB Rainbow Chase
+Custom # ICE40 RGB Rainbow Chase
 
 This repository is a simple RGB Rainbow Chase test for the IcyBlue FPGA. This would also be compatible with any other iCE40 FPGA.
 
